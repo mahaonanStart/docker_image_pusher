@@ -1,3 +1,1 @@
-ghcr.io/hoarder-app/hoarder-web:release
-gcr.io/zenika-hub/alpine-chrome:123
-ghcr.io/hoarder-app/hoarder-workers:release
+ghcr.io/open-webui/open-webui:main
