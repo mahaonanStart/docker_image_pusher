@@ -1,1 +1,1 @@
-ghcr.io/linkwarden/linkwarden:latest
+registry.cn-hangzhou.aliyuncs.com/guoshiyin/game:chuanqi
