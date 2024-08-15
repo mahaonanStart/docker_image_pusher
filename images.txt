@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+ghcr.io/binary-husky/gpt_academic_nolocal:master
