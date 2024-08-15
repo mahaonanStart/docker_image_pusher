@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/guoshiyin/game:chuanqi
+ghcr.io/open-webui/open-webui:main
